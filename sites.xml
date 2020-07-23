@@ -1,0 +1,1165 @@
+<?xml version="1.0"?>
+<groups>
+  <basinGroup name="Dailies">
+    <hydrograph type="daily" lid="BLKO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="ELNO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="OKBO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="IOLK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="PPFK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="COMO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="JOPM7" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="QUAO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="CVLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="CLRO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="INOO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="WTTO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="KNSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="CWYO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="TALO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="ELDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="VBUA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="MLBA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="OZGA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HT" ts="RG" dur="0" ext="Z"/>
+      <data pe="HT" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="DARA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="MORA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="TODA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HT" ts="RG" dur="0" ext="Z"/>
+      <data pe="HT" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="LITA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="PBFA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="WICT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="WLTO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="TRLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="GSVT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="PLVO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="DURO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="BLUO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="ARCT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="DEKT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="GLOO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="FLTA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup> 
+  <basinGroup name="NMWTX">
+    <hydrograph type="floodonly" lid="LCVN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GOLN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CMMN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SPGN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="DAWN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TYLN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SNCN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LGNN5" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="AMAT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="COLORADO">
+    <hydrograph type="floodonly" lid="FNEC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FHAC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PNNC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FCHC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LEDC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SALC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WSVC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CNCC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PDAC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SCVC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ADLC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="NPTC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CDMC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ARCC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LXHC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PGMC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PTRC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LAPC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LMAC2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="WKANSAS">
+    <hydrograph type="floodonly" lid="AERK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="RCNK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ALBK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="COOK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SYRK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GCKK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="DDCK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="KNSK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BTTK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HSNK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BETK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SANK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GTBK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MACK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ZENK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LYNK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HTCK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HCHK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="HAVARK">
+    <hydrograph type="floodonly" lid="MDKK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CHNK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PECK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BLPK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HAVK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ALMK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HTDK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SEDK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="COWK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="DRBK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MULK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="OXFK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ARCK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TOWK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="AGSK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="EDWK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="EDEK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="AGAK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WFDK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ARKK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="KEYINF">
+    <hydrograph type="floodonly" lid="PCYO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="KAWO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CBNK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="BLKO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="KIOK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="AVAO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GSPO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TONO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="RLSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PAWO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ENWK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="KENO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FRGO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BFFO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WANO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="AMCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="DOVO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="KNGO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="KNRO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SWDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GUCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GTRO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="RIPO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="VERD">
+    <hydrograph type="floodonly" lid="ATOK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FRNK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ECLK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="IDPK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BIGK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CFVK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LEPO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="UPRNEO">
+    <hydrograph type="floodonly" lid="MLBK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FLRK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CTWK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PLYK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="EMPK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CNGK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="AMCK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="EPRK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="NEOK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="LWRNEO">
+    <hydrograph type="floodonly" lid="JRLK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BRLK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LRYK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="IOLK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CNUK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="EREK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="PPFK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="OSWK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="COMO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BXTK1" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CHTM7" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WCOM7" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="JOPM7" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="QUAO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TIFM7" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PENO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MFDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="EUFINF">
+    <hydrograph type="floodonly" lid="SPMT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GYMO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BVRO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LCBT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FSLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WDGO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SEIO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CNLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WATO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="ELNO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="YUKO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="OLBO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="OKBO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HRHO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SWNO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WETO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ACDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BGSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CDNT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TGAO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BRIO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TUCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="NRCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PRCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="NRMO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TCMO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SASO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CLVO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="KEYWEBB">
+    <hydrograph type="daily" lid="WTTO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="KNSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="CWYO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="TALO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="ELDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TENO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="TLSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HEYO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SPCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="JNKO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RR" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HSKO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CPLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HULO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BVLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="RAMO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="CVLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="OOLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="CLRO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BIRO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="AVTO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SKLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SPEO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="OWSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="INOO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GIBO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MKGO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="KERRPBF">
+    <hydrograph type="floodonly" lid="EUFO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LVNO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WSLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PTAO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HJFA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PANO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="VBRA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HT" ts="RG" dur="0" ext="Z"/>
+      <data pe="HT" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="VBUA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="MLBA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="OZGA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HT" ts="RG" dur="0" ext="Z"/>
+      <data pe="HT" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="DARA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="DANA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="MORA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="TODA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HT" ts="RG" dur="0" ext="Z"/>
+      <data pe="HT" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="GRVA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HUSA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LITA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PBFA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="WASHITA">
+    <hydrograph type="floodonly" lid="CHYO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FOSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CLIO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CAGO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FTCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ANDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CCKO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="NKHO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ALXO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="LNDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RZ" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="PLVO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ARBO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HVRO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="DURO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="DENINF">
+    <hydrograph type="floodonly" lid="KTNT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MCET2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SHAT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CARO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ALTO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HEAO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MTNO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WLGT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MGMO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="VERT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WAYT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CHLT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BKBT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WRLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="WAKO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ELTT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="SYOT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="WICT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="RNDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="WLTO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="TRLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="GSVT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+  <basinGroup name="ARCFUL">
+    <hydrograph type="floodonly" lid="DSNT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MYST2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="BLUO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CANO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="MGCO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="FRSO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="ARCT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="CYDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="ANTO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HGLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="DEKT2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="INGA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="PCLO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="GLOO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="IDBO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="BKDO2" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HP" ts="RG" dur="0" ext="Z"/>
+      <data pe="HP" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="floodonly" lid="HRGA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+    <hydrograph type="daily" lid="FLTA4" prev_days="-5" next_days="5" alarm="true">
+      <data pe="HG" ts="RG" dur="0" ext="Z"/>
+      <data pe="HG" ts="FF" dur="0" ext="Z"/>
+    </hydrograph>
+  </basinGroup>
+</groups>
